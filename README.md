@@ -32,7 +32,7 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/Facebook-F5F0E8?style=for-the-badge&logo=facebook&logoColor=C0392B" height="40" alt="typescript logo" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/linkedin-F5F0E8?style=for-the-badge&logo=linkedin&logoColor=C0392B" height="40" alt="react logo" />
+  <img src="https://img.shields.io/badge/LinkedIn-F5F0E8?style=for-the-badge&logo=linkedin&logoColor=C0392B" height="40" alt="react logo" />
 </div>
 
 ###
