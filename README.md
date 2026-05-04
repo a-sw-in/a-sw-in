@@ -28,11 +28,11 @@
 
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Instagram-F5F0E8?style=for-the-badge&logo=c&logoColor=C0392B" height="40" alt="javascript logo" />
+  <img src="https://img.shields.io/badge/Instagram-F5F0E8?style=for-the-badge&logo=instagram&logoColor=C0392B" height="40" alt="javascript logo" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Facebook-F5F0E8?style=for-the-badge&logo=c&logoColor=C0392B" height="40" alt="typescript logo" />
+  <img src="https://img.shields.io/badge/Facebook-F5F0E8?style=for-the-badge&logo=facebook&logoColor=C0392B" height="40" alt="typescript logo" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/X-F5F0E8?style=for-the-badge&logo=c&logoColor=C0392B" height="40" alt="react logo" />
+  <img src="https://img.shields.io/badge/X-F5F0E8?style=for-the-badge&logo=twitter&logoColor=C0392B" height="40" alt="react logo" />
 </div>
 
 ###
