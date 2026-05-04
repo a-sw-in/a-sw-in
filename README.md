@@ -13,15 +13,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://img.shields.io/badge/JavaScript-F5F0E8?style=for-the-badge&logo=c&logoColor=C0392B" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://img.shields.io/badge/Java-F5F0E8?style=for-the-badge&logo=c&logoColor=C0392B" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://img.shields.io/badge/Python-F5F0E8?style=for-the-badge&logo=c&logoColor=C0392B" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
+  <img src="https://img.shields.io/badge/React-F5F0E8?style=for-the-badge&logo=c&logoColor=C0392B" height="40" alt="jest logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
+  <img src="https://img.shields.io/badge/Next-F5F0E8?style=for-the-badge&logo=c&logoColor=C0392B" height="40" alt="storybook logo" />
 </div>
 
 ###
