@@ -27,14 +27,13 @@
 ###
 
 
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></td>
-    <td><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></td>
-    <td><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /></td>
-    <td><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" /></td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://img.shields.io/badge/Instagram-F5F0E8?style=for-the-badge&logo=c&logoColor=C0392B" height="40" alt="javascript logo" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Facebook-F5F0E8?style=for-the-badge&logo=c&logoColor=C0392B" height="40" alt="typescript logo" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/X-F5F0E8?style=for-the-badge&logo=c&logoColor=C0392B" height="40" alt="react logo" />
+</div>
 
 ###
 
