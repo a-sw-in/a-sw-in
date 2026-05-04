@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Pytorch-F5F0E8?style=for-the-badge&logo=pytorch&logoColor=C0392B" height="40" alt="storybook logo" />
 </div>
 
-###
+
 <h1 align="center">Socials</h1>
 ###
 
