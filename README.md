@@ -12,7 +12,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F5F0E8?style=for-the-badge&logo=javascript&logoColor=C0392B" height="40" alt="javascript logo" />
   <img width="4" />
   <img src="https://img.shields.io/badge/Java-F5F0E8?style=for-the-badge&logo=java&logoColor=C0392B" height="40" alt="typescript logo" />
