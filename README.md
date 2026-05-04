@@ -19,9 +19,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-F5F0E8?style=for-the-badge&logo=python&logoColor=C0392B" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Reactjs-F5F0E8?style=for-the-badge&logo=reactjs&logoColor=C0392B" height="40" alt="jest logo" />
+  <img src="https://img.shields.io/badge/Reactjs-F5F0E8?style=for-the-badge&logo=react&logoColor=C0392B" height="40" alt="jest logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Nextjs-F5F0E8?style=for-the-badge&logo=nextjs&logoColor=C0392B" height="40" alt="storybook logo" />
+  <img src="https://img.shields.io/badge/Nextjs-F5F0E8?style=for-the-badge&logo=next&logoColor=C0392B" height="40" alt="storybook logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Numpy-F5F0E8?style=for-the-badge&logo=numpy&logoColor=C0392B" height="40" alt="storybook logo" />
   <img width="12" />
