@@ -58,11 +58,11 @@
   </a>
   <img width="8" />
   <a href="#" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-F5F0E8?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-F5F0E8?style=for-the-badge&logo=linkedin&logoColor=C0392B" height="40" alt="linkedin logo" />
   </a>
   <img width="8" />
   <a href="#" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-F5F0E8?style=for-the-badge&logo=github&logoColor=181717" height="40" alt="github logo" />
+    <img src="https://img.shields.io/badge/GitHub-F5F0E8?style=for-the-badge&logo=github&logoColor=C0392B" height="40" alt="github logo" />
   </a>
 </div>
 
