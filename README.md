@@ -67,6 +67,8 @@
   </a>
 </div>
 
+
+<h1 align="center">Profile views</h1>
 <div align="center">
   <img src="https://count.getloli.com/@:a-sw-in?theme=booru-lewd&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
