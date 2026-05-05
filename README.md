@@ -8,7 +8,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/13/56/e5/1356e5ff229a2270742a7b83cac46e83.gif"  />
 
 ###
 
