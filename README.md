@@ -52,19 +52,15 @@
 <h1 align="center">Socials</h1>
 
 <div align="center">
-  <a href="#" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://www.instagram.com/4_xw1n/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-F5F0E8?style=for-the-badge&logo=instagram&logoColor=0f3248" height="40" alt="instagram logo" />
   </a>
   <img width="8" />
-  <a href="#" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Facebook-F5F0E8?style=for-the-badge&logo=facebook&logoColor=0f3248" height="40" alt="facebook logo" />
-  </a>
-  <img width="8" />
-  <a href="#" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="www.linkedin.com/in/aswin-s-437580321" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-F5F0E8?style=for-the-badge&logo=linkedin&logoColor=0f3248" height="40" alt="linkedin logo" />
   </a>
   <img width="8" />
-  <a href="#" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://github.com/a-sw-in/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-F5F0E8?style=for-the-badge&logo=github&logoColor=0f3248" height="40" alt="github logo" />
   </a>
 </div>
