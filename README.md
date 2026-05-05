@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Reactjs-F5F0E8?style=for-the-badge&logo=react&logoColor=0f3248" height="40" alt="jest logo" />
   <img width="4" />
   <img src="https://img.shields.io/badge/Nextjs-F5F0E8?style=for-the-badge&logo=next&logoColor=0f3248" height="40" alt="storybook logo" />
-  <br/>
+  <br>
   <img width="4" />
   <img src="https://img.shields.io/badge/Numpy-F5F0E8?style=for-the-badge&logo=numpy&logoColor=0f3248" height="40" alt="storybook logo" />
   <img width="4" />
@@ -36,8 +36,8 @@
   <img src="https://img.shields.io/badge/Scikit_learn-F5F0E8?style=for-the-badge&logo=scikitlearn&logoColor=0f3248" height="40" alt="storybook logo" />
   <img width="4" />
   <img src="https://img.shields.io/badge/Pytorch-F5F0E8?style=for-the-badge&logo=pytorch&logoColor=0f3248" height="40" alt="storybook logo" />
-  <br/>
 </div>
+<br>
 
 ###
 
