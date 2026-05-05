@@ -4,7 +4,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="width: 50%; margin: 0 auto;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=24&pause=1000&color=bdd3d9&center=true&vCenter=true&width=800&height=50&lines=Hi,+I'm+Aswin+S;" alt="Typing Animation" />
 </div>
 
