@@ -13,7 +13,7 @@
 
 
 ###
-<h1 align="center">Tech</h1>
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F5F0E8?style=for-the-badge&logo=javascript&logoColor=0f3248" height="40" alt="javascript logo" />
